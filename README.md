@@ -8,5 +8,5 @@ Scripts in git  -
 2.Message encryption - Msgencrypt.py
 
 3./Public over private handshake
-    -initiator
-    -responder
+    [i]initiator.java
+    [ii]responder.java
